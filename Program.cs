@@ -13,8 +13,8 @@ namespace testedetrasbalho
 
             Console.WriteLine("TESTANDODDDDD");
 
-            int b = 1;
-            var a = 20;
+            int valor1 = 1;
+            var valor2 = 20;
             var resultado = a + b;
         }
     }
