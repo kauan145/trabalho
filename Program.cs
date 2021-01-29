@@ -15,7 +15,7 @@ namespace testedetrasbalho
 
             int valor1 = 1;
             var valor2 = 20;
-            var resultado = a + b;
+            var resultado = valor1 + valor2;
         }
     }
 }
