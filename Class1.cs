@@ -9,5 +9,11 @@ namespace testedetrasbalho
     class Class1
     {
         //TUDOEEEEERADDOA ODO AD OADOA DOAOD 
+
+
+        public static class Opa
+        {
+           //dsadsadsadsadsa
+        }
     }
 }
