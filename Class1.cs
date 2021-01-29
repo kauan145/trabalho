@@ -13,10 +13,7 @@ namespace testedetrasbalho
 
         public static class Opa
         {
-            //testa
-            //dsadsadsadsadsa
-            ///dsadsad
-            ///dsadsad
+
         }
     }
 }
